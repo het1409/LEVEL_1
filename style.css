@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #ffff3d;
+}
+
+#btn1{
+    margin-top: 50px;
+    border: 1px solid black;
+    background: white;
+    border-right: 10px solid black;
+    margin-left: 15px;
+    width: 15%;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family: "montserrat";
+    cursor: pointer;
+    transition: 0.6s;
+   
+}
+
+#btn2{
+    
+    border: 1px solid black;
+    background: white;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 15%;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family: "montserrat";
+    cursor: pointer;
+    transition: 0.6s;
+    border-right: 10px solid black;
+}
+
+#btn3{
+    border: 1px solid black;
+    background: white;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 15%;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family: "montserrat";
+    cursor: pointer;
+    transition: 0.6s;
+    border-right: 10px solid black;
+}
+
+#btn4{
+    border: 1px solid black;
+    background: white;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 15%;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family: "montserrat";
+    cursor: pointer;
+    transition: 0.6s;
+    border-right: 10px solid black;
+}
+
+#btn1:hover, #btn2:hover, #btn3:hover, #btn4:hover{
+    color: chartreuse;
+}
+
+.button{
+    position: absolute;
+}
+
+#heading{
+   
+    margin-top: -230px;
+    margin-left: 300px;
+    color: #c200c2;
+}
+
+#credits{
+    margin-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#by{
+    margin-top:5px;
+}
